@@ -1,0 +1,20 @@
+F:\grafika\lab4\lab4\bin\Debug\lab4.exe.config
+F:\grafika\lab4\lab4\bin\Debug\lab4.exe
+F:\grafika\lab4\lab4\bin\Debug\lab4.pdb
+F:\grafika\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+F:\grafika\lab4\lab4\obj\Debug\lab4.Form1.resources
+F:\grafika\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+F:\grafika\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+F:\grafika\lab4\lab4\obj\Debug\lab4.exe
+F:\grafika\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\123\Downloads\pt\Patryk Supiński lab3-1\lab4_5\lab4\bin\Debug\lab4.exe.config
+C:\Users\123\Downloads\pt\Patryk Supiński lab3-1\lab4_5\lab4\bin\Debug\lab4.exe
+C:\Users\123\Downloads\pt\Patryk Supiński lab3-1\lab4_5\lab4\bin\Debug\lab4.pdb
+C:\Users\123\Downloads\pt\Patryk Supiński lab3-1\lab4_5\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+C:\Users\123\Downloads\pt\Patryk Supiński lab3-1\lab4_5\lab4\obj\Debug\lab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\123\Downloads\pt\Patryk Supiński lab3-1\lab4_5\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\123\Downloads\pt\Patryk Supiński lab3-1\lab4_5\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\123\Downloads\pt\Patryk Supiński lab3-1\lab4_5\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\123\Downloads\pt\Patryk Supiński lab3-1\lab4_5\lab4\obj\Debug\lab4.exe
+C:\Users\123\Downloads\pt\Patryk Supiński lab3-1\lab4_5\lab4\obj\Debug\lab4.pdb
+C:\Users\123\Downloads\pt\Patryk Supiński lab3-1\lab4_5\lab4\obj\Debug\lab5.Form1.resources
